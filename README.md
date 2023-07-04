@@ -1,4 +1,4 @@
-# Implementation of neural network layers and optimizers in Python 📝
+# Implementation of Neural Nets and Optimizers 📝
 
 ## Structure 
 Implementations of a few neural network layers: 
